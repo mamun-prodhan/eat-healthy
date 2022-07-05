@@ -57,5 +57,14 @@ section{
     max-height: 100%;
     box-sizing: border-box;
 }
+.my-recipie-section{
+    padding-top: 50px;
+}
+.heading-paragraph{
+    width: 100%;
+    text-align: center;
+    
+    
+}
 
 
