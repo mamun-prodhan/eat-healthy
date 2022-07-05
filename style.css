@@ -62,9 +62,33 @@ section{
 }
 .heading-paragraph{
     width: 100%;
-    text-align: center;
-    
-    
+    text-align: center;  
+}
+.recipie-section{
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.recipie h3{
+    font-weight: 700;
+    color: rgb(30, 28, 28);
+}
+.recipie{
+    width: 50%;
+    margin: 50px;
+    padding: 20px;
+    box-shadow:  2px 2px 40px 5px gray; 
+    border-radius: 20px;
+}
+.recipie img{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box; 
 }
 
-
+.div-one{
+    margin-left: 200px;
+}
+.div-two{
+    margin-right: 200px;
+}
