@@ -114,3 +114,17 @@ section{
 
     
 }
+footer{
+    background-color: rgb(26, 26, 27);
+    color: gray;
+    height: 100px;
+    padding: 40px;
+}
+
+footer h3{
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
+
