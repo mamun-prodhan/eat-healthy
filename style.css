@@ -43,7 +43,6 @@ section{
 }
 .about{
     display: flex;
-    background-color: aquamarine;
     background-image: url(images/shapes/Frame\ 59.jpg);
     padding-top: 50px;
     height: 500px;
